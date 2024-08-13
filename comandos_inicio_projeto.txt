@@ -1,0 +1,9 @@
+node -v 
+    -> ver se há algum NODE.js na máquina e qual sua versão
+
+npm -v
+    -> ver se há algum NPM na máquina e qual sua versão
+
+npx create-react-app <proj_name>  
+    -> criar um projeto em react, criando a estrutura de pasta 
+    padrão com seus arquivos de configuração
