@@ -6,4 +6,5 @@ npm -v
 
 npx create-react-app <proj_name>  
     -> criar um projeto em react, criando a estrutura de pasta 
-    padrão com seus arquivos de configuração
+    padrão com seus arquivos de configuração (estabelecer a arqui-
+    tetura dos pacotes)
